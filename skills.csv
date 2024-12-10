@@ -1,0 +1,13 @@
+Role,Key Skills 
+Data Engineer,"SQL, Python, ETL, Data Warehousing, Spark, Hadoop"
+Data Scientist,"Python, R, Machine Learning, Data Visualization, Statistics, NLP, SQL"
+Data Analyst,"Excel, SQL, Tableau, Python, Data Cleaning, Business Intelligence"
+Machine Learning Engineer,"TensorFlow, PyTorch, Python, Machine Learning, MLOps, Cloud, Docker"
+Others,"Varies by role (e.g., technical, managerial, hybrid skills)"
+Data Manager,"Data Governance, SQL, Leadership, Compliance, Data Quality"
+Analytics Engineer,"SQL, dbt, ETL, Data Modeling, Visualization, Python"
+Data Architect,"SQL, Database Design, Cloud, Data Governance, ETL"
+Research Scientist,"Statistics, Python, R, Deep Learning, Publications, Domain Expertise"
+Applied Scientist,"Machine Learning, Python, R, Experimental Design, Applied Research"
+Machine Learning Scientist,"Python, TensorFlow, Algorithms, Statistics, Cloud"
+Research Engineer,"Python, Prototyping, Engineering, Algorithms"
