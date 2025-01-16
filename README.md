@@ -6,7 +6,7 @@ This repository contains two notebooks analyzing the **Kaggle Data Scientist Sal
 
 ## Notebooks Overview
 
-### **FP557 - KSVM-RFSVM-SVM**  
+### **KSVM-RFSVM-SVM**  
 This notebook primarily employs the **Support Vector Machine (SVM)** model as the baseline predictive model. The model's performance is enhanced by incorporating two methods: **K-means clustering** and **Random Forest**.
 
 #### **Methods Used**
@@ -33,7 +33,7 @@ This notebook primarily employs the **Support Vector Machine (SVM)** model as th
 
 ---
 
-### **FP557 - KNN-SMOTE-XGBoost**  
+### **KNN-SMOTE-XGBoost**  
 This notebook uses the **XGBoost** model as the baseline predictive model. To address the issue of data imbalance (where U.S. companies are significantly overrepresented compared to non-U.S. companies), the **KNN-SMOTE** method is applied.
 
 #### **Results**:
